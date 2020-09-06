@@ -11,3 +11,6 @@ Some more text about purpose
 sdfkjsdlkjf
 
 ## How to contribute
+
+## Copyright
+copyright gittraning 2014

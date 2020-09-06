@@ -8,7 +8,7 @@ This is example is to show different parts of the Git Repository and various com
 Some more text about purpose
 
 ## Deployment
-sdfkjsdlkjf
+Deployment description
 
 ## How to contribute
 please fork this repo and then issue pull request for review

@@ -15,4 +15,4 @@ Deployment description
 please fork this repo and then issue pull request for review
 
 ## Copyright
-copyright gittraning 2014
+copyright gittraning 2014 all rights reserved

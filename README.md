@@ -11,6 +11,7 @@ Some more text about purpose
 sdfkjsdlkjf
 
 ## How to contribute
+please fork this repo and then issue pull request for review
 
 ## Copyright
 copyright gittraning 2014
